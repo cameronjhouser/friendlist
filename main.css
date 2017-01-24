@@ -1,0 +1,40 @@
+body {
+	background-image: url("http://blog.beliefnet.com/lessonsfromarecoveringdoormat/files/2012/02/friends.jpg");
+
+}
+
+#navBar{
+
+	background-color: powderblue;
+/*	border: solid black;*/
+}
+
+#friend{
+	border-color: solid black;
+	border-width: 50px;
+	background-color: gray;
+}
+
+th {
+	list-style: none;
+	color: black;
+}
+th:nth-child(even){	
+	background-color: #DDD;
+	font-size: 15px;
+	background-image: 
+}
+
+th:nth-child(odd){
+	background-color: #EEE;
+	font-size: 15px;
+		
+}
+
+/*#name, #age{
+	text-align-last:  center;
+}*/
+
+p,h3{
+	color:white;
+}
